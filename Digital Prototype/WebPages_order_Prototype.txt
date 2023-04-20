@@ -1,0 +1,55 @@
+
+
+Dentist Appointment Scheduler Prototype:
+========================================
+
+Oder of web pages:
+-----------------
+
+1. DentistAppointment _ Login
+
+2. DentistAppointment _ Register
+
+3. User_ Login
+
+4. User_ ProfilePage
+
+5. At_Least_have_PhoneNumber_to_Take_an_appointment
+
+6. DentistAppointment _ Change password
+
+7. DentistAppointment _ Add Address
+
+8. Ready_to_Take_An_ Appointment
+
+9. 
+
+10. DentistAppointment _ Book an appointment
+
+11. DentistAppointment _ My Appointments
+
+12. Dentist_Login
+
+13. DentistAppointment _ Upcoming appointments
+
+14. Dentist_ Today_Appointments
+
+15. DentistAppointment _ Add Treatment
+
+16. DentistAppointment _ Add Medicine
+
+17. DentistAppointment _ Past Treatments
+
+18. DentistAppointment _ Search Treatment
+
+19. DentistAppointment _ Holidays
+
+20. DentistAppointment _ Add Holiday
+
+21. DentistAppointment _ Patient Profile
+
+22. DentistAppointment _ Patient Statistics
+
+23. DentistAppointment _ Dentist Statistics
+
+

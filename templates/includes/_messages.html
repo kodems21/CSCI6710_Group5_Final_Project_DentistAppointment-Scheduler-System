@@ -1,0 +1,10 @@
+<!-- DentistAppointmentScheduler System
+ https://github.com/kodems21/CSCI6710_Group5/DentistAppointment-Scheduler-System -->
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class=" alert alert-{{ category }}" role="alert">{{ message }}</div>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
