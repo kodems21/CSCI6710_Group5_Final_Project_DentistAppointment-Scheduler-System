@@ -1,5 +1,5 @@
 ### Group-5_CSCI4710-6710_Final-Project
-  - Jacob Turnage
+  - Jacob Turnage (turnagej19@students.ecu.edu)
   - Sandhya Kodem
   - Alejandro Cruz-Bautista
 
