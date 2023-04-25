@@ -1,7 +1,7 @@
 ### Group-5_CSCI4710-6710_Final-Project
   - Jacob Turnage (turnagej19@students.ecu.edu)
-  - Sandhya Kodem
-  - Alejandro Cruz-Bautista
+  - Sandhya Kodem (kodems21@students.ecu.edu)
+  - Alejandro Cruz-Bautista (cruzbautistaa17@students.ecu.edu)
 
 # DentistAppointmentScheduler System
 A fully-working dentist appointment scheduler system which is written in Python using Flask web development, powered by Bootstrap, using MySQL to manipulate data. It's based on a statement of work, developed first its own database and then application. Its database has much quite enough good mock data.
